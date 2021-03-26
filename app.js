@@ -1,4 +1,4 @@
-// import packages
+// import package
 import express  from 'express';
 
 // creat an express application
